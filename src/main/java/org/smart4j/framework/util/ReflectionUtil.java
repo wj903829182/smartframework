@@ -1,11 +1,8 @@
-package org.smart4j.framework.org.smart4j.framework.util;
+package org.smart4j.framework.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.io.File;
 import java.lang.reflect.Field;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**

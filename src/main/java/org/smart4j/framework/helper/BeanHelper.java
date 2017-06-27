@@ -1,6 +1,6 @@
 package org.smart4j.framework.helper;
 
-import org.smart4j.framework.org.smart4j.framework.util.ReflectionUtil;
+import org.smart4j.framework.util.ReflectionUtil;
 
 import java.util.HashMap;
 import java.util.Map;

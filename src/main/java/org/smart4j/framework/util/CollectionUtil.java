@@ -1,4 +1,4 @@
-package org.smart4j.framework.org.smart4j.framework.util;
+package org.smart4j.framework.util;
 
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.collections4.MapUtils;
