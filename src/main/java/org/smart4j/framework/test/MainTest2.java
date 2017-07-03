@@ -9,6 +9,6 @@ public class MainTest2 {
     public static void main(String[] args) {
       Hello helloProxy = CGLibProxy.getInstance().getProxy(HelloImp.class);
       helloProxy.sayHello("jack");
-      //我要进行测试jenkins
+      //我要进行测试jenkins2
     }
 }
